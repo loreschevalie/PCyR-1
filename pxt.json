@@ -1,5 +1,5 @@
 {
-    "name": "PCyR-1-6",
+    "name": "Respuesta a recibir mensajes",
     "description": "",
     "dependencies": {
         "core": "*",
